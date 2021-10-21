@@ -1,0 +1,8 @@
+.display{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
+.slider img{
+    height: 550px;
+}

@@ -1,0 +1,43 @@
+[
+    {
+        "key": "B002RL8IYK",
+        "category": "CSE Group",
+        "name": "MALLEABLE STUDY TIME",
+        "Details":"Study material available online 24/7. Study in your free time, no time management issues, perfect balance between work and study time.",
+        "img": "https://media-exp1.licdn.com/dms/image/C4E0BAQFIGCWm388PoQ/company-logo_200_200/0/1519856958082?e=2159024400&v=beta&t=CeeDKl33Y7UVRw5bZ2sWAO-GJu1rxNchdDozwwpUQH0",
+        "price": 68.36
+    },
+    {
+        "key": "B01LZ2WZGH",
+        "category": "EEE Group",
+        "name": "PLACEMENT ASSISTANCE",
+        "Details":"Edumart University Online has access to all of Edumart Group’s placement resources and alumni network, through which thousands of job opportunities are generated.",
+        "img": "https://media-exp1.licdn.com/dms/image/C560BAQF0tM1qMGotWg/company-logo_200_200/0/1519904009644?e=2159024400&v=beta&t=h7WliXWxP6d57knXictgzn4WI4ltllA_LsjZsHzGB1w",
+        "features": [],
+        "price": 169.88
+    
+    },
+    {
+        "key": "B01K1IO3QW",
+        "category": "BBA Group",
+        "name": "EASY TO ACCESS",
+        "Details":"There is easy accessibility to online help in terms of online teachers and online forums. Teachers can be contacted with the help of video chats and e-mails.",
+        "img": "https://3.imimg.com/data3/JA/KG/MY-9829515/bachelor-of-business-administration-bba-250x250.jpg",
+        "price": 349.99
+    },
+    {
+        "key": "B01LD4MGY4",
+        "category": "LLB Group",
+        "name": "STUDY ON THE GO",
+        "Details":"LMS that is easily accessible on a number of devices such as mobile phones, I-pads, computers and other such devices. Availability of ready reckoners such that students can remember the key points of the session learnt.",
+        "img": "https://siet.in/images_spec/CoursePics/LLB.png",
+        "price": 579.99
+    },
+    {
+        "key": "B01M18UZF5",
+        "category": "MBA Group",
+        "name": "GET AN INNOVATIVE",
+        "Details":"The transition to an environment of learning becomes easy with the availability of multiple sources of learning such as text books, power-point presentations, and story boards on various subjects.",
+        "img": "https://fastly.4sqi.net/img/general/600x600/87388367_CkPaQeJnomDwZPc8EUGKbni_-BX0xfYz_T08MVq8bJQ.png",
+        "price": 699
+    }]
